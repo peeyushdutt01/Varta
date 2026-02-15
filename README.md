@@ -1,4 +1,4 @@
-# Varta Chat [Visit Here](https://vartachat.netlify.app/)
+# [Varta Chat](https://vartachat.netlify.app/)
 
 Varta Chat is a modern, real-time messaging application designed to provide a seamless and secure communication experience. Built with a focus on performance and user experience, it allows users to connect instantly with friends and colleagues through an intuitive interface.
 
