@@ -20,14 +20,14 @@ The application features a clean, responsive design that works effectively acros
 
 ## 📸 Screenshots
 
-![Login Screen](frontend/public/Chat_interface.png)
+![Login Screen](https://raw.githubusercontent.com/peeyushdutt01/varta-chat/refs/heads/main/frontend/public/Signup.png?token=GHSAT0AAAAAADTGMVM5ATEYRRR2BYX6B7JW2MRX5IQ)
 *Secure Login Screen*
 
-![Chat Interface](frontend/public/Signup.png)
+![Chat Interface](https://raw.githubusercontent.com/peeyushdutt01/varta-chat/refs/heads/main/frontend/public/Chat_interface.png?token=GHSAT0AAAAAADTGMVM46LASXGQXAUUGP6ZS2MRX4FA)
 *Real-time Chat Interface*
 
 <p>
-  <img src="frontend/public/Phone_screenshot.jpg" alt="Mobile View" width="180">
+  <img src="https://raw.githubusercontent.com/peeyushdutt01/varta-chat/refs/heads/main/frontend/public/Phone_screenshot.jpg?token=GHSAT0AAAAAADTGMVM5NFGWSLK3DMFN4QKI2MRX55A" alt="Mobile View" width="180">
 </p>
 
 *Responsive Mobile Design*
